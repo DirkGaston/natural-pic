@@ -11,3 +11,7 @@ body {
 h1 {
   margin-bottom: 0;
 }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
